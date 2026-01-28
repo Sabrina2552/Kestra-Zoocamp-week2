@@ -1,4 +1,6 @@
 *.parquet
+# Windows Zone.Identifier 文件
+*:Zone.Identifier
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
